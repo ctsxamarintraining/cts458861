@@ -1,0 +1,5 @@
+/Users/cts007/Projects/GarbageCollectionExample/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cts007/Projects/GarbageCollectionExample/bin/Debug/GarbageCollectionExample.exe.mdb
+/Users/cts007/Projects/GarbageCollectionExample/bin/Debug/GarbageCollectionExample.exe
+/Users/cts007/Projects/GarbageCollectionExample/obj/x86/Debug/GarbageCollectionExample.exe
+/Users/cts007/Projects/GarbageCollectionExample/obj/x86/Debug/GarbageCollectionExample.exe.mdb
