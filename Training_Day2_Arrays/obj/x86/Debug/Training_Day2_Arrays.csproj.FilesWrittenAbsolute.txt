@@ -1,0 +1,5 @@
+/Users/cts007/Projects/Training_Day2_Arrays/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cts007/Projects/Training_Day2_Arrays/bin/Debug/Training_Day2_Arrays.exe.mdb
+/Users/cts007/Projects/Training_Day2_Arrays/bin/Debug/Training_Day2_Arrays.exe
+/Users/cts007/Projects/Training_Day2_Arrays/obj/x86/Debug/Training_Day2_Arrays.exe
+/Users/cts007/Projects/Training_Day2_Arrays/obj/x86/Debug/Training_Day2_Arrays.exe.mdb
