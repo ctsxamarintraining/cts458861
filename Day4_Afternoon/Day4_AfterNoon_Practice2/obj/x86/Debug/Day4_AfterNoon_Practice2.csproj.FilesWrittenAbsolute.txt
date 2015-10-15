@@ -1,0 +1,5 @@
+/Users/cts007/Projects/Day3_Afternoon_Practice1/Day4_AfterNoon_Practice2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cts007/Projects/Day3_Afternoon_Practice1/Day4_AfterNoon_Practice2/bin/Debug/Day4_AfterNoon_Practice2.exe.mdb
+/Users/cts007/Projects/Day3_Afternoon_Practice1/Day4_AfterNoon_Practice2/bin/Debug/Day4_AfterNoon_Practice2.exe
+/Users/cts007/Projects/Day3_Afternoon_Practice1/Day4_AfterNoon_Practice2/obj/x86/Debug/Day4_AfterNoon_Practice2.exe
+/Users/cts007/Projects/Day3_Afternoon_Practice1/Day4_AfterNoon_Practice2/obj/x86/Debug/Day4_AfterNoon_Practice2.exe.mdb

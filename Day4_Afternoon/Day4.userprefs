@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Day4_AfterNoon_Practice2/Day4_AfterNoon_Practice2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Training.Day1/Program.cs">
+    <Files>
+      <File FileName="../Afternoon_FileIO/Program.cs" Line="18" Column="27" />
+      <File FileName="../Afternoon_FileIO/CopyFolder.cs" Line="35" Column="47" />
+      <File FileName="Day4_AfterNoon_Practice2/Program2.cs" Line="35" Column="40" />
+      <File FileName="../Training.Day1/Program.cs" Line="99" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

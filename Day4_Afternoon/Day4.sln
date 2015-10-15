@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_Afternoon_Practice1", "Day4_Afternoon_Practice1.csproj", "{AC6CE07B-A30E-4D4A-B6C7-CFF762C44DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_AfterNoon_Practice2", "Day4_AfterNoon_Practice2\Day4_AfterNoon_Practice2.csproj", "{8F4A0CF2-BE08-4216-AE1A-71DB6211F7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F4A0CF2-BE08-4216-AE1A-71DB6211F7EC}.Debug|x86.ActiveCfg = Debug|x86
+		{8F4A0CF2-BE08-4216-AE1A-71DB6211F7EC}.Debug|x86.Build.0 = Debug|x86
+		{8F4A0CF2-BE08-4216-AE1A-71DB6211F7EC}.Release|x86.ActiveCfg = Release|x86
+		{8F4A0CF2-BE08-4216-AE1A-71DB6211F7EC}.Release|x86.Build.0 = Release|x86
+		{AC6CE07B-A30E-4D4A-B6C7-CFF762C44DF0}.Debug|x86.ActiveCfg = Debug|x86
+		{AC6CE07B-A30E-4D4A-B6C7-CFF762C44DF0}.Debug|x86.Build.0 = Debug|x86
+		{AC6CE07B-A30E-4D4A-B6C7-CFF762C44DF0}.Release|x86.ActiveCfg = Release|x86
+		{AC6CE07B-A30E-4D4A-B6C7-CFF762C44DF0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
