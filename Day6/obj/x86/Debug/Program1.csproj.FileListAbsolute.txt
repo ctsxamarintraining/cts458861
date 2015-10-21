@@ -1,0 +1,5 @@
+H:\cts458861\Day6\obj\x86\Debug\Day6.exe
+H:\cts458861\Day6\bin\Debug\Day6.exe
+H:\cts458861\Day6\bin\Debug\Day6.pdb
+H:\cts458861\Day6\obj\x86\Debug\Program1.csprojResolveAssemblyReference.cache
+H:\cts458861\Day6\obj\x86\Debug\Day6.pdb

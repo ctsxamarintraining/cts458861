@@ -1,0 +1,4 @@
+H:\cts458861\Day6\Program2\bin\Debug\Program2.exe
+H:\cts458861\Day6\Program2\bin\Debug\Program2.pdb
+H:\cts458861\Day6\Program2\obj\x86\Debug\Program2.exe
+H:\cts458861\Day6\Program2\obj\x86\Debug\Program2.pdb
