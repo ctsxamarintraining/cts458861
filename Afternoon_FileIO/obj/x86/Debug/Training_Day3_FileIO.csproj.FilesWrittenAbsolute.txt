@@ -1,0 +1,5 @@
+/Users/cts007/Projects/Afternoon_FileIO/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cts007/Projects/Afternoon_FileIO/bin/Debug/Afternoon_FileIO.exe.mdb
+/Users/cts007/Projects/Afternoon_FileIO/bin/Debug/Afternoon_FileIO.exe
+/Users/cts007/Projects/Afternoon_FileIO/obj/x86/Debug/Afternoon_FileIO.exe
+/Users/cts007/Projects/Afternoon_FileIO/obj/x86/Debug/Afternoon_FileIO.exe.mdb
